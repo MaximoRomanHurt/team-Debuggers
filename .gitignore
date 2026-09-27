@@ -1,0 +1,20 @@
+# === RPG Paper Maker ===
+game jam/Backups/
+**/temp-undo-redo/
+*.log
+
+# === Archivos temporales ===
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# === Sistema operativo ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === VS Code / editor ===
+.vscode/
